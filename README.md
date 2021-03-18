@@ -4,6 +4,7 @@ This Organization is a contracting firm that is rapidly expanding and needs to l
 
 !["indeed"](https://github.com/noelialopez/Job-Postings/blob/master/Indeed.jpg)
 
+
 My Goals are: Scraping data from a Indeed.com job aggregation tool in order to collect the data to best answer these two questions. Determining the industry factors that are most important in predicting the salary amounts for these data. Determining the factors that distinguish job categories and titles from each other.
 
 To limit the scope, I will be focus on data-related job postings, e.g. data scientist, data analyst, research scientist, business intelligence, and others.
