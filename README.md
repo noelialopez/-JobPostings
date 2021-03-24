@@ -2,7 +2,7 @@ Job-Postings
 Business Case
 This Organization is a contracting firm that is rapidly expanding and needs to leverage data to win more contracts. It offers technology and scientific solutions and wants to be competitive in the hiring market.
 
-!["indeed"](https://github.com/noelialopez/Job-Postings/blob/master/Indeed.jpg)
+!["indeed"](https://github.com/⁨noelialopez83⁩/⁨Desktop⁩/⁨Github⁩/⁨JobPosting⁩/⁨-JobPostings⁩/Indeed.jpg)
 
 My Goals are: Scraping data from a Indeed.com job aggregation tool in order to collect the data to best answer these two questions. Determining the industry factors that are most important in predicting the salary amounts for these data. Determining the factors that distinguish job categories and titles from each other.
 
